@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Archive"
-description: "你看到的，是我笨方法练习写作的所有文章"
-header-img: "img/orange.jpg"
+description: "记录下所有的点滴"
+header-img: "img/Xacebook.jpg"
 ---
 
 
