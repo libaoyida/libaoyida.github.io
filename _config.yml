@@ -1,27 +1,27 @@
 # Site settings
-title: 笨方法学写作
+title: 木子说
 header-img: "img/Xacebook.jpg"
 tagline: "cn"  
-description: "陈素封|笨方法学写作"  
+description: "学习、思考、感悟、成长"  
 baseurl: ""
-url: "http://www.cnfeat.com"  
+url: "http://www.libaoyi.cn"  
 
 # About/contact
 owner: 
-  name: " CNFeat"
-  email: CNFeat@gmail.com
-  bio: "笨方法学写作"
+  name: " libaoyi"
+  email: libaoyi@163.com
+  bio: "木子说"
 
 # Data
 gavatar: img/favicon1.ico
 favicon: img/favicon1.ico
 
-douban_username: cnfeat
-twitter_username: feat
-github_username: cnfeat
-facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+# douban_username: 
+# twitter_username: libaoyi
+# github_username: libaoyi
+# facebook_username: 
+# weibo_username: libaoyi
+# zhihu_username: feat
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -43,14 +43,14 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CNFeat"
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+      author: "libaoyi"
+      header-img: "img/Xacebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 #gitment
-comment_gitment_repo: cnfeat.github.io
-comment_gitment_clientId: 5b68ff043472fa385239
-comment_gitment_clientSecret: d3818d7f9352e8adb1a8d548f3f7708ec1e39e18
+# comment_gitment_repo: libaoyi.github.io
+# comment_gitment_clientId: 5b68ff043472fa385239
+# comment_gitment_clientSecret: d3818d7f9352e8adb1a8d548f3f7708ec1e39e18
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-80884545-1
