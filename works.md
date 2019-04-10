@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "works"
-description: "知之真切笃实处即是行，行之明觉精察处即是知 "
-header-img: "img/semantic.jpg"
+description: "学无止境，上下求索 "
+header-img: "img/Xacebook.jpg"
 ---
 
 
@@ -88,24 +88,3 @@ header-img: "img/semantic.jpg"
 - [如何正确地使用执行意图? ](http://www.cnfeat.com/blog/2015/11/21/if-then/)
 - [如何写好离职工作交接文档？](http://www.cnfeat.com/blog/2017/06/16/HandoverDoc/)
 - [RSS 的生命力：分享100个订阅源](http://www.cnfeat.com/blog/2016/01/29/100Subscription/)
-
-
-## 自愿付费
-
-有价值的事物，值得付出时间，也值得付出金钱。
-
-喜欢文章的人可自愿付费，当然也可以不付费。
-
-
-<center>
-    <p><img src="http://openmindclub.qiniudn.com/omt/WechatPay02.jpg" align="center"></p>
-</center>
-
-
-### ChangeLog
-
-- 2017-11-23 增补笨方法学写作系列文章
-- 2017-09-22 优化组块，增补文章
-- 2017-06-04 修订组块
-- 2017-03-04 大幅修订页面
-
