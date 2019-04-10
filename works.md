@@ -6,10 +6,6 @@ header-img: "img/Xacebook.jpg"
 ---
 
 
-<center>
-    <p><img src="http://openmindclub.qiniudn.com/omt/WhiteAvatar.jpg" align="center"></p>
-</center>
-
 
 ## 故事与人生
 
