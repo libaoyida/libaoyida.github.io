@@ -171,7 +171,7 @@ hr.small {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
   }
-  .navbar-custom.is-fixed {
+  .navbar-custom.is-visible {
     /* when the user scrolls down, we hide the header right above the viewport */
     position: fixed;
     top: -61px;
