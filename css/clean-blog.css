@@ -181,6 +181,10 @@ hr.small {
     -moz-transition: -moz-transform 0.3s;
     transition: transform 0.3s;
   }
+.navbar-fixed-top {
+   top: 0;
+   border-width: 0 0 1px;
+ }
   .navbar-custom.is-fixed .navbar-brand {
     color: #404040;
   }
@@ -204,6 +208,7 @@ hr.small {
     transform: translate3d(0, 100%, 0);
   }
 }
+
 .intro-header {
   background: no-repeat center center;
   background-color: #808080;
