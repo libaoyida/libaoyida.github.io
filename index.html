@@ -74,3 +74,14 @@ description: "学习、思考、感悟、成长"
 联系博主：javachen.june[a]gmail.com
 </div>
 </section>
+
+
+
+<section>
+<h4>Recent Posts</h4>
+<ul id="recent_posts">{ % for rpost in site.posts limit: 15 %}
+<li class="post">
+<a href=""></a>
+</li>{ % endfor %}
+</ul>
+</section>
